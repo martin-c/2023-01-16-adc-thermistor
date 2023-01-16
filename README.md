@@ -1,6 +1,8 @@
 
 > Open this page at [https://martin-c.github.io/2023-01-16-adc-thermistor/](https://martin-c.github.io/2023-01-16-adc-thermistor/)
 
+<image src="circuit.jpg" width=600 />
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
